@@ -14,7 +14,7 @@ A Machine Learning based classification project that predicts penguin species us
 
 ### 📊 Data Visualizations
 
-![Data Visualizations](screenshots/Data_Visualizations.png)
+![Data Visualizations](screenshots/Visualizations.png)
 
 ### 🔍 Penguin Prediction
 
